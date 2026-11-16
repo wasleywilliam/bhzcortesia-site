@@ -3,7 +3,7 @@ BhzCortesIA — Site institucional
 Inclui página inicial, Política de Privacidade, Termos de Serviço, Contato e CSS.
 
 ANTES DE PUBLICAR:
-1. O e-mail ww.adm@outlook.com já foi inserido. Ainda substitua [INSERIR NOME OU RAZÃO SOCIAL] pelo nome civil completo do responsável pessoa física.
+1. Responsável informado: Wasley William (pessoa física). E-mail de contato: ww.adm@outlook.com.
 2. Confirme que as práticas descritas correspondem ao código real distribuído.
 3. Revise os documentos juridicamente. Este é um modelo inicial, não aconselhamento jurídico.
 4. Não publique credenciais, tokens, client_secrets.json, vídeos ou arquivos privados.
